@@ -182,7 +182,7 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="text-center text-white/50 text-sm py-4">
-        <p>© 2024 PRD Generator. Create professional project requirement documents with AI.</p>
+        <p>© 2025 Yash Pratap Singh. Create professional project requirement documents with AI.</p>
       </footer>
     </div>
   );
